@@ -1,9 +1,9 @@
 # 🎮 Guessing Game
 
-## 📖 Description
+##  Description
 A simple number guessing game built with Python. The computer picks a random number between 1 and 100, and you have to guess it! Get feedback on whether your guess is too high or too low until you find the correct number.
 
-## 🎯 How to Play
+##  How to Play
 
 1. Run the game: `python guessing_game.py`
 2. The computer picks a random number between 1 and 100
@@ -21,7 +21,7 @@ A simple number guessing game built with Python. The computer picks a random num
 - Takes user input after each guess
 - Provides instant feedback to guide your next guess
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Deploy with a web interface (Streamlit or Flask)
 - Add difficulty levels (different number ranges)
@@ -29,7 +29,7 @@ A simple number guessing game built with Python. The computer picks a random num
 - Create a fun, interactive UI for better user experience
 - Add timer or score system
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.x
 
